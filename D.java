@@ -31,4 +31,8 @@ public class D implements K, F {
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
     }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
 }
