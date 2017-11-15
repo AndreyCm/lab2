@@ -27,4 +27,8 @@ public class D implements K, F {
     public double ad() {
         return 12.12;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }
